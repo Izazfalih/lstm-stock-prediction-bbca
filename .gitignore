@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# Data & Model
+*.csv
+*.h5
+*.joblib
+
+# Env
+.env
+
+# VSCode
+.vscode/
