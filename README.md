@@ -18,9 +18,10 @@ Pastikan library berikut sudah terinstall:
 ## Cara Install Library
 
 Jalankan perintah berikut di terminal:
-'''
+
+```
 pip install numpy pandas matplotlib scikit-learn tensorflow yfinance
-'''
+```
 
 
 ## Alur Sistem
@@ -37,9 +38,10 @@ pip install numpy pandas matplotlib scikit-learn tensorflow yfinance
 1. Pastikan koneksi internet aktif  
 2. Buka terminal di folder project  
 3. Jalankan perintah berikut:
-'''
+
+```
 python bbca_lstm_project.py
-'''
+```
 
 ## Output yang Dihasilkan
 
