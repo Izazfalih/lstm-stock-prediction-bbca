@@ -51,3 +51,21 @@ python bbca_lstm_project.py
 - Prediksi harga saham untuk hari berikutnya  
 - Dataset saham dalam bentuk file CSV  
 - Model tersimpan dengan nama `lstm_bbca_fullhistory.h5`  
+
+## Hasil Evaluasi Model
+
+Model menunjukkan performa yang cukup baik dengan tingkat error yang rendah (MAPE sekitar 1–2%).
+
+### Tabel Evaluasi
+
+Berikut adalah perbandingan antara nilai prediksi dan nilai aktual:
+
+![Evaluation Result](results/evaluation_table.png)
+
+---
+
+### Visualisasi Prediksi
+
+Grafik berikut menunjukkan perbandingan antara data aktual dan hasil prediksi model LSTM:
+
+![Prediction Plot](results/prediction_plot.png)
